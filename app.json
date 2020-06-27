@@ -17,7 +17,13 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.zgennadiy.weather",
+      "buildNumber": "1.0.0",
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.zgennadiy.weather",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
